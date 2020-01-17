@@ -2,10 +2,6 @@ This is
 a file
 a random
 
-Uma modificação
-
-and
-
 wait
 
 
